@@ -1,4 +1,4 @@
-# filebrowser-x
+# FileBrowser-X
 FileBrowser eXtendend - Is a FileBrowser Docker image with added binaries and configuration.
 
 ## Included binaries
