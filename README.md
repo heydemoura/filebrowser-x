@@ -7,3 +7,4 @@ This image includes the following binaries:
 - mame-tools
 - ffmpeg
 - wget
+- unrar
